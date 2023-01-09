@@ -51,7 +51,7 @@ function App() {
           <div className="w-1/2 flex-col">
             <div className="absolute bg-violet h-2 w-48 -z-10 mt-5 ml-8 opacity-50"></div>
             <div className="absolute bg-violet h-2 w-52 -z-10 mt-7 ml-8 opacity-70"></div>
-            <h1 className="font-bold text-4xl m-8"> Education </h1>
+            <h1 className="font-bold text-4xl m-8"> Formation </h1>
           </div>
           <ExperienceBox
             job_title="Institut Paul Lambin — Bachelor's degree in Business Informatics"
