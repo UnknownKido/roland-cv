@@ -59,7 +59,7 @@ function App() {
             end_d="September 2019"
           />
           <ExperienceBox
-            job_title="Université Libre de Bruxelles — Bachelor of Computer Science and Bachelor of Economics (no follow-up)"
+            job_title="Université Libre de Bruxelles — Bachelor of Architecture and Bachelor of Economics (no follow-up)"
             start_d="September 2014"
             end_d="June 2015"
           />
