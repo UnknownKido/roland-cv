@@ -23,10 +23,10 @@ function App() {
             <h1 className="font-bold text-4xl m-8"> About me</h1>
           </div>
           <DescriptionBox text={ABOUT_ME_ENG}></DescriptionBox>
-        </div>
-        <div className="mt-12">
           <Arrow dark={false} index="idx-2" color="#62B6CB"/>
         </div>
+        
+        
       </div>
 
       <div className="sch grid min-w-min w-full bg-grey text-whit" id="idx-2">
