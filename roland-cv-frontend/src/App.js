@@ -5,8 +5,8 @@ import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 
 
-//const ABOUT_ME = "Je suis un développeur de 26 ans qui est à la recherche d’un emplois. De nature calme et curieuse je m'entends facilement avec les gens. D'un autre coté j'ai tendance à manquer de constance dans le travail avec des jours très productives et d'autres moins point sur lequel je suis entrain de travailler. Désireux d'en apprendre plus je suis à la recherche d'un emplois en tant que full stack développeur de préférence (je reste ouvert à toute proposition) suite aux 3 années passé à travailler en tant que dev pour un partenaire Odoo.";
-const ABOUT_ME_ENG = "I'm a 26 year old developer who is looking currently for a job. I'm calm and curious by nature thus I tend to get along easily with people. On the other hand I tend to be inconsistent in my work with some days very productive and others less so partly due to the fact that, at my first job after school, I started working on a project by myself. Eager to learn more I am looking for a job as a full stack developer preferably (I remain open to any proposal) following 3 years working as a developer for an Odoo partner."
+//const ABOUT_ME = "Je m'appelle Bura Roland j'ai 27 ans je suis un informaticien a la recherche d'un emplois. Après avoir travaillé dans le domaine de l'informatique durant environ 3 ans en tant que développeur Odoo je cherche à me diversifier et souhaite travailler en tant que développeur web (je reste ouvert à toute autre proposition). Véritable couteau suisse, je m'adapte rapidement aux nouveaux environnements et aucune tache ne me fait peur.";
+const ABOUT_ME_ENG = "My name is Bura Roland I am 27 years old and I am a computer scientist looking for a job. After working in the field of computer science for about 3 years as an Odoo developer I am looking to diversify and work as a web developer (I remain open to any other proposal). I am a real Swiss Army knife, I can adapt quickly to new environments and no task scares me.";
 
 function App() {
   return(
@@ -112,6 +112,9 @@ function App() {
                 />
                 <ExperienceBox
                   job_title="&#183; UML"
+                />
+                <ExperienceBox
+                  job_title="&#183; ReactJs"
                 />
               </div>
               <div className="w-1/3"> 
