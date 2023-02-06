@@ -5,8 +5,8 @@ import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 
 
-//const ABOUT_ME = "Je m'appelle Bura Roland j'ai 27 ans je suis un informaticien a la recherche d'un emplois. Après avoir travaillé dans le domaine de l'informatique durant environ 3 ans en tant que développeur Odoo je cherche à me diversifier et souhaite travailler en tant que développeur web (je reste ouvert à toute autre proposition). Véritable couteau suisse, je m'adapte rapidement aux nouveaux environnements et aucune tache ne me fait peur.";
-const ABOUT_ME_ENG = "My name is Bura Roland I am 27 years old and I am a computer scientist looking for a job. After working in the field of computer science for about 3 years as an Odoo developer I am looking to diversify and work as a web developer (I remain open to any other proposal). I am a real Swiss Army knife, I can adapt quickly to new environments and no task scares me.";
+//const ABOUT_ME = "Après avoir travaillé dans le domaine de l'informatique durant environ 3 ans en tant que développeur Odoo je cherche à me diversifier et souhaite travailler en tant que développeur web (je reste ouvert à toute autre proposition). Véritable couteau suisse, je m'adapte rapidement aux nouveaux environnements et aucune tache ne me fait peur.";
+const ABOUT_ME_ENG = "After working in the field of computer science for about 3 years as an Odoo developer I am looking to diversify and work as a web developer (I remain open to any other proposal). I am a real Swiss Army knife, I can adapt quickly to new environments and no task scares me.";
 
 function App() {
   return(
